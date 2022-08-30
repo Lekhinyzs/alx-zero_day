@@ -1,1 +1,1 @@
-My second commit
+My learning pattern
